@@ -1,7 +1,7 @@
 ## Olá, eu sou o Allan Andrade
 
 - 🔭 Estou trabalhando atualmente com front end
-- 🌱 Estou aprendendo Java, Angular e PostgreSQL
+- 🌱 Estou aprendendo Angular
 - 😄 Pronomes: Ele/Dele
 <div style="display: inline_block">
 <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=allanandradedsgn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
