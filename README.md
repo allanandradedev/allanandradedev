@@ -2,7 +2,7 @@
 
 Trabalhando atualmente na **FlexPag**
 
-Aprendendo **Tkinter, SQLite3**
+Aprendendo **React Native**
 
 Entre em contato comigo: **allan@urge.space**
 
