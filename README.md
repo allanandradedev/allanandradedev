@@ -2,9 +2,9 @@
 
 Trabalhando atualmente na **FlexPag**
 
-Aprendendo **React Native**
+Aprendendo **Angular**
 
-Entre em contato comigo: **allan@urge.space**
+Entre em contato comigo: **allanandrade.empreendimentos@gmail.com**
 
 <h3 align="left">Minhas Redes:</h3>
 
@@ -24,5 +24,5 @@ Entre em contato comigo: **allan@urge.space**
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
