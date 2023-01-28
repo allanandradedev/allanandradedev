@@ -1,10 +1,9 @@
 # Allan Andrade
 
-Dev at @Flexpag
+Mobile Developer at @Flexpag
 
-Learning about the best technologies.
+Passionate about creating big things.
 
-Actually working with Angular 14, ReactJS and React Native on frontend, 
-Elixir and Python on backend.
+Actually working with Android (Kotlin) and Angular.
 
 Learning TDD and Clean Code.
